@@ -18,21 +18,30 @@
   <tr>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
         width="48"
         height="48"
-        alt="TypeScript"
+        alt="javascript"
       />
-      <br /><strong>TypeScript</strong>
+      <br /><strong>Javascript</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
         width="48"
         height="48"
-        alt="VueJS"
+        alt="HTML"
       />
-      <br /><strong>Vue</strong>
+      <br /><strong>HTML5</strong>
+    </td>
+      <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+        width="48"
+        height="48"
+        alt="CSS3"
+      />
+      <br /><strong>CSS3</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -42,15 +51,6 @@
         alt="React"
       />
       <br /><strong>React</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-        width="48"
-        height="48"
-        alt="Next.js"
-      />
-      <br /><strong>Next.js</strong>
     </td>
     <td align="center" height="108" width="108">
       <img
