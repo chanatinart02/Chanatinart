@@ -1,11 +1,16 @@
-# 👋 Hey there
 
+<img src="./header.png" />
+
+# Hello, Nice to see you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 <div align="justify">
-    My name is Chanatinart K and I'm a Full Stack Engineer who loves to work with JavaScript technologies. Right now my mind is focused on learning everything that is related to Web Development. I'm also passionate about exploring new technologies which I can leverage to solve real-life problems.
+    <strong>
+    My name is Chanatinart K and I'm a web developer. I am eager to learn new things, and experience different kinds of technologies in the Web Development world. Right now, I'm learning Javascript Front-End & Back-End in order to become a Full-Stack developer (MERN stack).
+      Happy coding! 👨‍💻 
+     </strong>
 </div>
 
 <br/><a href="https://www.linkedin.com/in/chanatinart/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="mailto:chanatinart.k@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://chanatinart-portfolio.vercel.app/"><img src="https://img.shields.io/badge/-Web%20Portfolio-red" height=25></a>
 
 # 🔧 Technologies & Tools
 
@@ -160,7 +165,7 @@
   </tr>
 </table>
 
-# 📊 GitHub Stats:
+#  📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=chanatinart02&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chanatinart02&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chanatinart02&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
