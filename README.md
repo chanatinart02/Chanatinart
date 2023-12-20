@@ -1,5 +1,3 @@
-<img src="./header.png" />
-
 # Hello, Nice to see you! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 <div align="justify">
@@ -61,6 +59,15 @@
       />
       <br /><strong>Bootstrap</strong>
     </td>
+          <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/374118/tailwind.svg"
+        width="48"
+        height="48"
+        alt="vscode"
+      />
+      <br /><strong>Tailwind</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -90,6 +97,33 @@
     </td>
   </tr>
   <tr>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/473731/mysql.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>MySQL </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/354112/nextjs.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>Nextjs</strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://www.svgrepo.com/show/349540/typescript.svg"
+        width="48"
+        height="48"
+        alt="Figma"
+      />
+      <br /><strong>Typescript</strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
@@ -135,6 +169,7 @@
       />
       <br /><strong>VSCode</strong>
     </td>
+
   </tr>
 </table>
 
